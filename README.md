@@ -1,0 +1,1 @@
+# JavaScript-Are-they-the-same.
